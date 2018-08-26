@@ -38,7 +38,7 @@ IoC容器、事件、资源、i18n、验证、数据绑定、类型转换、SpEL
 
 ### Contents
 - **Core Technologies** 
-  - [Introduction](Core-Technologies-Introduction.md)
+  - [Introduction](1-Core-Technologies-Introduction.md)
   - [1. The IoC container](1.1-Introduction-to-the-Spring-IoC-container-and-beans.md)
     - [1.1. Introduction to the Spring IoC container and beans](1.1-Introduction-to-the-Spring-IoC-container-and-beans.md)
     - [1.2. Container overview（容器概述）](1.2-Container-overview.md)
